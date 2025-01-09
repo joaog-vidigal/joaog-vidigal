@@ -12,12 +12,13 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaog-vidigal&layout=compact&hide_border=false&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-#
 <!--CONTACT-->
+#
+
 <div>
-  <!--Linkedin-->
-  <a href = "mailto:vidigaljoaogabriel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!--E-mail-->
+  <a href = "mailto:vidigaljoaogabriel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!--Linkedin-->
     <a href="https://www.linkedin.com/in/joão-gabriel-b-vidigal-9821592b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <!--Instagram-->
   <a href="https://www.instagram.com/jg_vidigal/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -25,7 +26,7 @@
 
 <br/>
 
-<!--LANGUAGES/SKILLS-->
+<!--TECH SKILLS-->
 # 💻 Tech Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,6 +39,7 @@
 
 <br/>
 
+<!--CURRENTLY LEARNING-->
 # 🖥️ Aprendendo neste momento
 ![Java](https://img.shields.io/badge/java-%23F44336.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![springboot](https://img.shields.io/badge/springboot-ffffff?logo=springboot&style=for-the-badge&color=6db33f&logoColor=ffffff)
