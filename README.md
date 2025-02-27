@@ -34,7 +34,7 @@
 ![FIGMA](https://img.shields.io/badge/FIGMA-ffffff?logo=figma&style=for-the-badge&color=a259ff&logoColor=ffffff)
 ![github](https://img.shields.io/badge/github-ffffff?logo=github&style=for-the-badge&color=272b33&logoColor=ffffff)
 ![git](https://img.shields.io/badge/git-ffffff?logo=git&style=for-the-badge&color=f05133&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/Linux-ffffff?logo=linux&style=for-the-badge&color=14181a&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/Linux-ffffff?logo=linux&style=for-the-badge&color=9a7408&logoColor=ffffff)
 ![trello](https://img.shields.io/badge/trello-ffffff?logo=trello&style=for-the-badge&color=0052cc&logoColor=ffffff)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
