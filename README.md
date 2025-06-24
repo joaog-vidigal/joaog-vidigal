@@ -1,7 +1,7 @@
 # Oi! Eu sou o João Gabriel 👋
 👩🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Americana, SP<br/>
 💻 Apaixonado por tecnologia e computação<br/>
-🧠 Atualmente aprendendo Java e Redes de Computadores<br/><br/>
+🧠 Atualmente aprendendo Java, Delphi e Redes de Computadores<br/><br/>
 
 
 <!--**joaog-vidigal/joaog-vidigal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
