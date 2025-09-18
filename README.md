@@ -44,7 +44,8 @@
 <!--CURRENTLY LEARNING-->
 # 🖥️ Aprendendo neste momento
 ![Java](https://img.shields.io/badge/java-%23F44336.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![springboot](https://img.shields.io/badge/springboot-ffffff?logo=springboot&style=for-the-badge&color=6db33f&logoColor=ffffff)
+![Springboot](https://img.shields.io/badge/springboot-ffffff?logo=springboot&style=for-the-badge&color=6db33f&logoColor=ffffff)
+![Redes de computadores](https://img.shields.io/badge/redes%20de%20computadores-ffffff?logo=nintendo&style=for-the-badge&color=3a71e6&logoColor=8F8F8F)
 ![redes de computadores](https://img.shields.io/badge/redes%20de%20computadores-ffffff?logo=nintendo&style=for-the-badge&color=3a71e6&logoColor=8F8F8F)
 <!--![Delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)-->
 
