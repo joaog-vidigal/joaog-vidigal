@@ -47,7 +47,7 @@
 ![Springboot](https://img.shields.io/badge/springboot-ffffff?logo=springboot&style=for-the-badge&color=6db33f&logoColor=ffffff)
 ![Redes de computadores](https://img.shields.io/badge/redes%20de%20computadores-ffffff?logo=nintendo&style=for-the-badge&color=3a71e6&logoColor=8F8F8F)
 ![React](https://img.shields.io/badge/react-%23F44336.svg?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/nodejs-%23F44336.svg?style=for-the-badge&logo=nodejs&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 <!--![Delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)-->
 
 
