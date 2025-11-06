@@ -46,7 +46,7 @@
 ![Java](https://img.shields.io/badge/java-%23F44336.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Springboot](https://img.shields.io/badge/springboot-ffffff?logo=springboot&style=for-the-badge&color=6db33f&logoColor=ffffff)
 ![Redes de computadores](https://img.shields.io/badge/redes%20de%20computadores-ffffff?logo=nintendo&style=for-the-badge&color=3a71e6&logoColor=8F8F8F)
-![Flutter](https://img.shields.io/badge/flutter-%23F44336.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%065a9d.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 <!--![React](https://img.shields.io/badge/React-%23333333.svg?style=for-the-badge&logo=react&logoColor=white&textColor=white)-->
 <!--![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)-->
