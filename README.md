@@ -21,8 +21,6 @@
   <a href = "mailto:vidigaljoaogabriel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!--Linkedin-->
     <a href="https://www.linkedin.com/in/joão-gabriel-b-vidigal-9821592b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <!--Instagram-->
-  <a href="https://www.instagram.com/jg_vidigal/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div> 
 
 <br/>
