@@ -46,14 +46,14 @@
 <!--CURRENTLY LEARNING-->
 # 🖥️ Aprendendo neste momento
 ![Springboot](https://img.shields.io/badge/springboot-ffffff?logo=springboot&style=for-the-badge&color=6db33f&logoColor=ffffff)
-![Dart](https://img.shields.io/badge/dart-ffffff?logo=dart&style=for-the-badge&color=3091d7&logoColor=ffffff)
-![Flutter](https://img.shields.io/badge/flutter-ffffff?logo=flutter&style=for-the-badge&color=065a9d&logoColor=ffffff)
-![Redes de computadores](https://img.shields.io/badge/redes%20de%20computadores-ffffff?logo=nintendo&style=for-the-badge&color=3a71e6&logoColor=8F8F8F)
+![React](https://img.shields.io/badge/React-%23333333.svg?style=for-the-badge&logo=react&logoColor=white&textColor=white)
+![React](https://img.shields.io/badge/React-%23333333.svg?style=for-the-badge&logo=react&logoColor=white&textColor=white)
 
-<!--![React](https://img.shields.io/badge/React-%23333333.svg?style=for-the-badge&logo=react&logoColor=white&textColor=white)-->
+<!--![Dart](https://img.shields.io/badge/dart-ffffff?logo=dart&style=for-the-badge&color=3091d7&logoColor=ffffff)-->
+<!--![Flutter](https://img.shields.io/badge/flutter-ffffff?logo=flutter&style=for-the-badge&color=065a9d&logoColor=ffffff)-->
+
 <!--![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)-->
 <!--![Delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)-->
 
-
-
+<!--![Redes de computadores](https://img.shields.io/badge/redes%20de%20computadores-ffffff?logo=nintendo&style=for-the-badge&color=3a71e6&logoColor=8F8F8F)-->
 
