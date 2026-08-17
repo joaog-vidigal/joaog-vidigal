@@ -58,7 +58,7 @@
 ![Next JS](https://img.shields.io/badge/Next.JS-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Springboot](https://img.shields.io/badge/springboot-ffffff?logo=springboot&style=for-the-badge&color=6db33f&logoColor=ffffff)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <!--![Dart](https://img.shields.io/badge/dart-ffffff?logo=dart&style=for-the-badge&color=3091d7&logoColor=ffffff)-->
 <!--![Flutter](https://img.shields.io/badge/flutter-ffffff?logo=flutter&style=for-the-badge&color=065a9d&logoColor=ffffff)-->
