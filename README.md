@@ -46,8 +46,7 @@
 ![FIGMA](https://img.shields.io/badge/FIGMA-ffffff?logo=figma&style=for-the-badge&color=a259ff&logoColor=ffffff)
 ![trello](https://img.shields.io/badge/trello-ffffff?logo=trello&style=for-the-badge&color=0052cc&logoColor=ffffff)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-<!--![MySQL](https://img.shields.io/badge/MySQL-ffffff?logo=mysql&style=for-the-badge&color=a259ff&logoColor=ffffff)-->
-
+![ClickUp](https://img.shields.io/badge/clickup-%237B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white)
 
 
 <br/>
