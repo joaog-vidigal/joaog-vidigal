@@ -13,7 +13,7 @@
   <!--![Joaos's GitHub stats](https://github-stats-extended.vercel.app/api?username=joaog-vidigal)-->
 
   ![Joao's Stats](https://github-stats-extended.vercel.app/api?username=joaog-vidigal&show_icons=true&count_private=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&hide_border=true)
-  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=joaog-vidigal&langs_count=5&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&hide_border=true)
+  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=joaog-vidigal&langs_count=3&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&hide_border=true)
   
   
 </div>
