@@ -56,6 +56,7 @@
 
 ![Springboot](https://img.shields.io/badge/springboot-ffffff?logo=springboot&style=for-the-badge&color=6db33f&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-ffffff?logo=redis&style=for-the-badge&color=D82C20&logoColor=ffffff)
 
 <!--![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)-->
 <!--![Next JS](https://img.shields.io/badge/Next.JS-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white)-->
