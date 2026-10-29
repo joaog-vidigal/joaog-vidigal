@@ -56,6 +56,10 @@
 
 ![Springboot](https://img.shields.io/badge/springboot-ffffff?logo=springboot&style=for-the-badge&color=6db33f&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
 
 <!--![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)-->
 <!--![Next JS](https://img.shields.io/badge/Next.JS-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white)-->
